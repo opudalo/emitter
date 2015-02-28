@@ -1,0 +1,34 @@
+{
+  "name": "emitter",
+  "version": "0.0.1",
+  "description": "Emitter without object patching",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zheneva/emitter.git"
+  },
+  "keywords": [
+    "es6",
+    "emitter"
+  ],
+  "author": {
+    "name": "Eugene Chechurin",
+    "email": "e.chechurin@gmail.com"
+  }
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zheneva/emitter/issues"
+  },
+  "homepage": "https://github.com/zheneva/emitter",
+  "scripts": {
+    "test-w": "make test-w",
+    "test": "make test"
+  },
+  "devDependencies": {
+    "babel": "^4.6.1",
+    "babel-core": "^4.6.1",
+    "babel-loader": "^4.0.0",
+    "chai": "^2.1.0",
+    "mocha": "^2.1.0"
+  }
+}

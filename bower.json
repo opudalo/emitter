@@ -1,0 +1,17 @@
+{
+  "name": "emitter",
+  "homepage": "https://github.com/zheneva/emitter",
+  "description": "Emitter without object patching",
+  "authors": [
+    "Eugene Chechurin <e.chechurin@gmail.com>"
+  ],
+  "main": "index.js",
+  "version": "0.0.1",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test"
+  ]
+}
