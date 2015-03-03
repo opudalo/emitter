@@ -13,7 +13,6 @@ Everyone should have emitter. So do I.
 
 ```js
 import * as emitter from './index'
-import {expect} from 'chai'
 
 var cat = {
   name: 'Ruzhyi',
