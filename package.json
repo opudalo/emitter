@@ -1,6 +1,6 @@
 {
   "name": "emitter",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Emitter without object patching",
   "main": "index.js",
   "repository": {
@@ -14,7 +14,7 @@
   "author": {
     "name": "Eugene Chechurin",
     "email": "e.chechurin@gmail.com"
-  }
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/zheneva/emitter/issues"

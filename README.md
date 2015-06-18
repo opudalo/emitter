@@ -2,14 +2,13 @@
 
 Everyone should have emitter. So do I. 
 
-
-### Installation
+## Installation
 
     $ bower install --save zheneva/emitter
     or 
     $ npm install --save zheneva/emitter
 
-### Examples
+## Examples
 
 ```js
 import * as emitter from './index'
